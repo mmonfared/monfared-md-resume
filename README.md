@@ -1,9 +1,7 @@
 # Hi there!, I'm **Mohammad Monfared**. 
 A QA Automation Developer who is has chance to mentor others as well :)
 
-[LinkedIn](https://www.linkedin.com/in/mohammad-monfared/) | [YouTube Courses](https://www.youtube.com/automationcamp) | [Github](https://github.com/mmonfared) | 
-
-Email to me: **mohammadmonfared [at] hotmail [dot] com**
+[LinkedIn](https://www.linkedin.com/in/mohammad-monfared/) | [YouTube Courses](https://www.youtube.com/automationcamp) | [Github](https://github.com/mmonfared) | Email:   **mohammadmonfared [at] hotmail [dot] com**
 
 **AutomationCamp** is a place to learn TestAutomation with me (in Persian):
 
@@ -84,8 +82,6 @@ Responsibilities:
 
 
 ## Skills
-
-**Technical**
 
 `Python` – Expert
 
