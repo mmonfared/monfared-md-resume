@@ -26,7 +26,8 @@ _Jun 2021 to Present_
 - Contribute on Front-end projects to define unique locators
 - Hire QA Engineers
 
-https://routetitan.com/
+[Routetitan's Website](https://routetitan.com/)
+
 
 ### Snapp (Iran)
 
@@ -44,7 +45,8 @@ As a QA Automation Engineer (Developer), I'm responsible for:
 - Collaborating with other teams to solve application faults found by automated tests
 - etc
 
-https://snapp.ir/
+[Snapp's Website](https://snapp.ir/)
+
 
 ### TadbirGostaran (Iran)
 
@@ -78,7 +80,8 @@ Responsibilities:
 - Audit the apps according to the country rules.
 - Test IranApps itself.
 
-https://iranapps.ir/
+[Iranapps' Website](https://iranapps.ir/)
+
 
 ## Skills
 
@@ -120,9 +123,11 @@ https://iranapps.ir/
 
 and more
 
-**Languages** 
-English: Fluent
-Persian: Mother Tongue
+## Languages
+
+**English**: Fluent
+
+**Persian**: Mother Tongue
 
 ## Education
 
