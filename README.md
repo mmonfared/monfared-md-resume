@@ -16,6 +16,7 @@ Email to me: **mohammadmonfared [at] hotmail [dot] com**
 ### Routetitan (Netherlands)
 
 **QA Automation Lead**
+
 _Jun 2021 to Present_
 
 - Implement UI Test Automation project from scrach using Selenium/Appium+Robotframework.
@@ -25,10 +26,14 @@ _Jun 2021 to Present_
 - Contribute on Front-end projects to define unique locators
 - Hire QA Engineers
 
+https://routetitan.com/
+
 ### Snapp (Iran)
 
 **QA Automation Engineer**
+
 _Jan 2020 to Jun 2021_
+
 Snapp has founded in 2014 and it is the first, biggest, and leading mobile and web-based smart transportation system in Iran. In 2018 Snapp application turned into a super app, and now it offers the services of the Snapp group. Requesting ride, motorcycle, truck, ordering food, hotel, and hostels reservations, bus and plane tickets, and more options are all available in this comprehensive application
 As a QA Automation Engineer (Developer), I'm responsible for:
 - Sketching out ideas for automated software test procedures
@@ -39,9 +44,12 @@ As a QA Automation Engineer (Developer), I'm responsible for:
 - Collaborating with other teams to solve application faults found by automated tests
 - etc
 
+https://snapp.ir/
+
 ### TadbirGostaran (Iran)
 
 **QA Lead**
+
 _Nov 2018 to Dec 2019_
 
 - Allow/Deny the company projects to release or update versions. 
@@ -54,19 +62,23 @@ _Nov 2018 to Dec 2019_
 - Write and run Automated/Manual tests including functional and non-functional. Such as performance, acceptance, regression, UI automation, etc.
 
 **Head of App Review (IranApps)**
-_Jun 2014 to Nov 2018_
 
-- Built large-scale (petabyte-size) financial data platform/solution/pipelines using Big Data technologies
-- Worked cross-functionally with many teams: Engineering, Treasury, Finance, Accounting, etc.
-- Worked on systems critical to future operation, with impact over billions of dollars of payments volume.
-- Developed a deep understanding of modern payments and financial technology across many countries.
+_Jul 2017 to Nov 2018_
+ 
 
 **Software QA Specialist (IranApps)**
+
 _Jun 2015 to Jul 2017_
 
-Email: **<mohammadmonfared [AT] hotmail [dot] com>**
-Website: **[monfared.io](monfared.io)**
+IranApps is a big android store in MENA and one of the TGBS projects. I was tester and app auditor. Applications developed by the developers around the country, pending to release in IranApps. 
 
+Responsibilities:
+- Publish/Reject the apps.
+- Test the apps to ensure having bug-free functionalities.
+- Audit the apps according to the country rules.
+- Test IranApps itself.
+
+https://iranapps.ir/
 
 ## Skills
 
@@ -115,13 +127,25 @@ Persian: Mother Tongue
 ## Education
 
 ### University of Applied Science and Technology
-Tehran, Iran
-**Bachelor of Engineering - BE**
-2015-2017
-Specialization: Information Technology
+
+**Bachelor of Engineering (BE) - Information Technology**
+
+2015-2017 | Iran
 
 ### Shahid Hashemi Nejad Technical College
-Iran
-**Associate's degree**
-2010 - 2014
-Electronics Engineering
+
+**Associate's degree - Electronics Engineering**
+
+2010 - 2014 | Iran
+
+## Certificates
+
+**Python 3**
+
+Sololearn - (Issued Sep 2020) [View Online](https://www.sololearn.com/Certificate/1073-7787219/pdf/)
+
+**Appium Mobile Automation**
+
+Udemy - (Issued Aug 2020) [View Online](https://www.udemy.com/certificate/UC-2b96f6da-c486-4ff8-ae20-c0619dc14430/)
+
+
