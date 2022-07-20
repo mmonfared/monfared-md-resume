@@ -10,7 +10,7 @@ Email:   **mohammadmonfared [at] hotmail [dot] com**
 
 [YouTube Channel](https://www.youtube.com/automationcamp) | [automationcamp.ir](https://automationcamp.ir)
 
-<a id="raw-url" href="https://github.com/mmonfared/monfared.io/blob/main/Resume_2022_v3.pdf">Download My CV in PDF</a> 
+<a id="raw-url" href="https://github.com/mmonfared/monfared.io/raw/main/Resume_2022_v3.pdf">Download My RESUME in PDF</a> 
 
 ## Work Experience
 
