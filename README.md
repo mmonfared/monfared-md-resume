@@ -14,11 +14,23 @@ Email:   **mohammadmonfared [at] hotmail [dot] com**
 
 ## Work Experience
 
-### Routetitan (Netherlands)
+### Routetitan (Armenia)
 
-**QA Automation Lead**
+**Senior QA Automation Developer (SDET)**
 
-_Jun 2021 to Present_
+_September 2022 to Present
+
+Joined as a Senior Software QA automation engineer on an international project with more than 15000 employees 
+- Contributing to integration testing using Cypress framework + JavaScript
+- Integrating tests on CI/CD (Jenkins)
+- Working with high-level orchestration-based environments (Kubernetes)
+
+
+[DataArt's Website](https://dataart.com/)
+
+**Senior QA Automation Engineer / QA Lead**
+
+_Jun 2021 to September 2022_
 
 - Implement UI Test Automation project from scrach using Selenium/Appium+Robotframework.
 - Implement performance test project from scrach uisng k6
@@ -136,11 +148,6 @@ and more
 
 2015-2017 | Iran
 
-### Shahid Hashemi Nejad Technical College
-
-**Associate's degree - Electronics Engineering**
-
-2010 - 2014 | Iran
 
 ## Certificates
 
