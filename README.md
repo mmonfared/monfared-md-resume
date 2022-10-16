@@ -14,7 +14,7 @@ Email:   **mohammadmonfared [at] hotmail [dot] com**
 
 ## Work Experience
 
-### Routetitan (Armenia)
+### DataArt (Armenia)
 
 **Senior QA Automation Developer (SDET)**
 
@@ -27,6 +27,8 @@ Joined as a Senior Software QA automation engineer on an international project w
 
 
 [DataArt's Website](https://dataart.com/)
+
+### Routetitan (Armenia)
 
 **Senior QA Automation Engineer / QA Lead**
 
