@@ -18,7 +18,7 @@ Email:   **mohammadmonfared [at] hotmail [dot] com**
 
 **Senior QA Automation Developer (SDET)**
 
-_September 2022 to Present
+_September 2022 to Present_
 
 Joined as a Senior Software QA automation engineer on an international project with more than 15000 employees 
 - Contributing to integration testing using Cypress framework + JavaScript
