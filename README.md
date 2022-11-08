@@ -153,6 +153,10 @@ and more
 
 ## Certificates
 
+**English Proficiency Certificate**
+
+Duolingo - (Issued Nov 2022) [View Online](https://certs.duolingo.com/4104f1ff40fe5ef9b8d0bc51f3cbcc16)
+
 **Python 3**
 
 Sololearn - (Issued Sep 2020) [View Online](https://www.sololearn.com/Certificate/1073-7787219/pdf/)
